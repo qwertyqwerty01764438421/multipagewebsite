@@ -106,7 +106,7 @@ nav .fa-solid{
         
     }
     .nav_links{
-        position: absolute;
+        position: fixed;
         background: #f44336;
         top: 0;
         right: 0;
